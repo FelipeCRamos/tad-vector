@@ -432,6 +432,6 @@ int main( void ){
 
 	std::cout << "\nEnd of the driver code." << std::endl;
 	std::cout << "Authors: Felipe Ramos and Max William\n" << std::endl;
-	return -1;
+	return 1;
 }
 
